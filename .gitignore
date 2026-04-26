@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Mac files
+.DS_Store
+
+# Uploaded images
+roomsync-backend/uploads/*
+!roomsync-backend/uploads/.gitkeep
+*.code-workspace

@@ -1,0 +1,8 @@
+
+--- DEBUG REQUEST ---
+finalLocation is: f6ti
+Req body: {"title":"vhg","property_type":"Apartment","description":"cfkg","rent":"567","security_deposit":"678","available_from":"2026-04-14","utilities_included":"true","furnished":"true","pet_friendly":"false","address":"f6ti","contact_email":"gopeshgoya@gmail.com","phone_number":"6283754604","cleanliness":"50","social_vibe":"Quiet Sanctuary"}
+
+--- DEBUG REQUEST ---
+finalLocation is: Near rajpura
+Req body: {"title":"sx","property_type":"Apartment","description":"cwd","rent":"32244","security_deposit":"244242","available_from":"2026-05-05","utilities_included":"true","furnished":"true","pet_friendly":"true","address":"Near rajpura","contact_email":"gopeshgoya@gmail.com","phone_number":"6283754604","cleanliness":"50","social_vibe":"Quiet Sanctuary"}
